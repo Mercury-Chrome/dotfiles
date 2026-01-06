@@ -5,8 +5,11 @@ bat
 bluez
 bluez-utils
 code
+cpio
+dbeaver
 efibootmgr
 fastfetch
+flatpak
 fzf
 gedit
 git
@@ -45,6 +48,7 @@ qt6ct
 sof-firmware
 tlp
 tlp-rdw
+whatsapp-for-linux-git
 yay-bin
 yay-bin-debug
 zen-browser-bin

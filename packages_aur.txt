@@ -31,6 +31,8 @@ ttf-material-symbols-variable-git
 ttf-readex-pro
 ttf-rubik-vf
 ttf-twemoji
+whatsapp-for-linux-git
+whatsapp-for-linux-git-debug
 wlogout
 wlogout-debug
 yay-bin
